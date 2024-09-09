@@ -1,0 +1,4 @@
+ollama
+thepipe-api[local]
+git+https://github.com/openai/whisper.git
+IPython
