@@ -15,7 +15,7 @@ This code demonstrates a proof-of-concept (POC) for classifying YouTube videos u
 
 **How to Use**
 
-1. Install the required dependencies using `pip install ollama thepipe openai pytube`.
+1. Install the required dependencies using `pip install -r requrements.txt`.
 2. Create a `prompt.md` file in the same directory as this script, containing the prompt for the LLM.
 3. Update the `surl` variable in the script to point to the YouTube video you want to classify.
 4. Run the script using `python run.py`.
